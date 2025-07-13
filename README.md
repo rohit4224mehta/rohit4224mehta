@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohit Mehta</h1>
+<h3 align="center">Android & Web Developer | IoT Enthusiast | Open to Internship (Nov 2025 – Mar 2026)</h3>
 
-<!--
-**rohit4224mehta/rohit4224mehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Diploma in Computer Engineering @ RK University  
+- 💼 Currently seeking a **software internship in Germany**  
+- 🔭 I’m working on a smart news app (**NewsFlux**)  
+- 🧠 Learning: Jetpack Compose, Firebase, Retrofit  
+- ⚡ Fun fact: I love building tech that solves real-world problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Languages & Tools
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,php,mysql,html,css,js,firebase,arduino,git" />
+
+---
+
+📌 Projects
+- 🔹 [HK News App](#) – Android (Kotlin, NewsAPI)  
+- 🔹 [IT Company Management System](#) – PHP, MySQL  
+- 🔹 [IoT Notice Board](#) – Arduino, Bluetooth
+
+---
+
+📫 Contact Me
+- 📧 sohitmehta548@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/rohitmehta-tech)  
+- 🔗 [GitHub](https://github.com/rohit4224mehta)
+
+
+
