@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rohit Mehta</h1>
-<h3 align="center">Android & Web Developer | IoT Enthusiast | Open to Internship Opportunities in India</h3>
+<h3 align="center">Android & Web Developer | IoT Enthusiast | Open to Internship (Nov 2025 – Mar 2026)</h3>
 
 - 🎓 Diploma in Computer Engineering @ RK University  
-- 💼 Currently doing an **internship in India**  
-- 🔭 Working on a smart news app (**NewsFlux**)  
+- 💼 Currently seeking a **software development internship in India**  
+- 🔭 I’m working on a smart news app (**NewsFlux**)  
 - 🧠 Learning: Jetpack Compose, Firebase, Retrofit  
-- ⚡ Fun fact: I love building tech that solves real-world problems
+- ⚡ Fun fact: I love building tech that solves real-world problems  
 
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,php,mysql,html,css,js,firebase,arduino,git" />
-</p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,php,mysql,html,css,js,firebase,arduino,git" />
 
 ---
 
 ### 📌 Projects
-- 🔹 [NewsFlux](#) – Smart news app built with Kotlin + Firebase  
-- 🔹 [IT Company Management System](#) – Laravel, PHP, MySQL  
-- 🔹 [IoT Notice Board](#) – Arduino, Bluetooth communication  
+- 🔹 [NewsFlux](#) – Smart News App built with Kotlin + Firebase  
+- 🔹 [Mithila_Tech(IT Company Management System)](#) – Web app using PHP & MySQL  
+- 🔹 [IoT Notice Board](#) – Arduino-based wireless display system  
 
 ---
 
@@ -27,3 +25,7 @@
 - 📧 **sohitmehta548@gmail.com**  
 - 🔗 [LinkedIn](https://linkedin.com/in/rohitmehta-tech)  
 - 🔗 [GitHub](https://github.com/rohit4224mehta)
+
+---
+
+⭐ *“Code with purpose, build with passion.”*  
