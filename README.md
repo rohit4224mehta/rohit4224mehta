@@ -1,37 +1,72 @@
 <h1 align="center">Hi 👋, I'm Rohit Mehta</h1>
-<h3 align="center">Backend Developer | Laravel · Python · Cloud Enthusiast | Open to Internship (Nov 2025 – Mar 2026)</h3>
+<h3 align="center">Laravel Developer | Backend Engineer | API & Cloud Enthusiast</h3>
 
 ---
 
-- 🎓 Diploma in **Computer Engineering @ RK University (Graduation 2026)**  
-- 💼 Currently seeking a **Backend Developer Internship in India (Nov 2025 – Mar 2026)**  
-- 🔭 Working on: **Employee Management API (Laravel + Sanctum)**  
-- ☁️ Exploring: **Cloud Deployment (Render · Docker)**  
-- ⚡ Fun fact: I love designing APIs that make applications smarter and faster  
+## 🚀 About Me
+- 🎓 Diploma Graduate in **Computer Engineering (RK University)**
+- 💼 Focused on **Backend Development with Laravel & PHP**
+- 🔍 Actively seeking **Backend Developer Internships (Nov 2025 – Mar 2026)**
+- ☁️ Exploring **Cloud Deployment (Render, Docker) & Scalable Systems**
+- ⚡ Passionate about building **clean, efficient, and real-world backend systems**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,mysql,html,css,js,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,python,mysql,js,html,css,git,github,docker,firebase" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-- 🔹 [**Employee Management API**](https://github.com/rohit4224mehta/employee-api-laravel) – RESTful API with Laravel Sanctum, MySQL, and Docker deployment  
-- 🔹 [**Mithila Tech (IT Company Management System)**](https://github.com/rohitmehta-tech) – Dynamic website for an IT startup built with Laravel + MySQL  
-- 🔹 [**NewsFlux App**](https://github.com/rohit4224mehta) – Android app using Kotlin, Firebase, and Jetpack Compose  
-- 🔹 [**Easy Fitz (E-commerce Website)**](https://github.com/rohit4224mehta) – PHP + MySQL based online store for a casual wear brand  
+## 📌 Featured Projects
+
+### 🔹 WorkNepal (Job Platform)
+- A job portal connecting job seekers and employers  
+- Features: job alerts, notifications, user roles & management  
+- Tech: Laravel, MySQL  
 
 ---
 
-### 📫 Contact Me
-- 📧 **sohitmehta548@gmail.com**  
-- 🔗 [LinkedIn](https://linkedin.com/in/rohitmehta-tech)  
-- 💻 [GitHub](https://github.com/rohit4224mehta)
+### 🔹 Employee Management API
+- RESTful API with authentication using Laravel Sanctum  
+- Features: CRUD operations, validation, secure token-based auth  
+- Deployment: Render + Docker  
+🔗 https://github.com/rohit4224mehta/employee-api-laravel  
 
 ---
 
-⭐ *“Code with purpose, build with passion — Backend is where the magic happens.”*  
+### 🔹 Mithila Tech (IT Company System)
+- Dynamic company management system with admin panel  
+- Features: team management, live search, structured backend  
+- Tech: Laravel + MySQL  
 
+---
+
+### 🔹 NewsFlux App
+- Real-time news application with category-based feeds  
+- Built using Kotlin, Firebase & Jetpack Compose  
+
+---
+
+### 🔹 Easy Fitz (E-commerce Platform)
+- Online store with product catalog and order handling  
+- Tech: PHP, MySQL  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Laravel (scalable architecture)
+- Docker & Cloud Deployment
+- Backend optimization & API performance
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **sohitmehta548@gmail.com**  
+- 💼 LinkedIn: https://linkedin.com/in/rohitmehta-tech  
+- 💻 GitHub: https://github.com/rohit4224mehta  
+
+---
+
+⭐ *“Building scalable backend systems with clean code and real-world impact.”*
